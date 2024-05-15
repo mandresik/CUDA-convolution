@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cuda_convolution", "cuda_convolution\cuda_convolution.vcxproj", "{3DEA6B25-1909-4E9F-A82D-18DCA591E026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEA6B25-1909-4E9F-A82D-18DCA591E026}.Debug|x64.ActiveCfg = Debug|x64
+		{3DEA6B25-1909-4E9F-A82D-18DCA591E026}.Debug|x64.Build.0 = Debug|x64
+		{3DEA6B25-1909-4E9F-A82D-18DCA591E026}.Release|x64.ActiveCfg = Release|x64
+		{3DEA6B25-1909-4E9F-A82D-18DCA591E026}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {062A7E0A-EA39-4A3A-864B-51118641F70B}
+	EndGlobalSection
+EndGlobal
