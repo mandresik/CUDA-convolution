@@ -4,14 +4,15 @@
 
 #include <stdio.h>
 
-#include "png++-0.2.9/png.hpp"
+#include "rgbConversion.h"
+#include "Timer.h"
 
 
 
 int main()
 {
     
-
+    
     return 0;
 }
 
