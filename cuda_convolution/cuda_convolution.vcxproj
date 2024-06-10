@@ -80,10 +80,12 @@
     <CudaCompile Include="kernel.cu" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Masks.cpp" />
     <ClCompile Include="rgbConversion.cpp" />
     <ClCompile Include="Timer.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Masks.h" />
     <ClInclude Include="rgbConversion.h" />
     <ClInclude Include="Timer.h" />
   </ItemGroup>
