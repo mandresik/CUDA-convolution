@@ -6,7 +6,7 @@
 
 #include "rgbConversion.h"
 #include "Timer.h"
-
+#include "Masks.h"
 
 
 int main()
